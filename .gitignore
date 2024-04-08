@@ -22,3 +22,13 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+/.idea/
+
+/log/
+/springhiber/log/
+/springhiber/target/
+/springjdbc/target/
+/springjpa/target/
+/springhiber/springhiber.iml
+/springjdbc/springjdbc.iml
+/springjpa/springjpa.iml
